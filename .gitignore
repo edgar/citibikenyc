@@ -1,0 +1,9 @@
+*.gem
+.ruby-version
+.ruby-gemset
+Gemfile.lock
+.DS_Store
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
