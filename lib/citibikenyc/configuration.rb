@@ -7,9 +7,6 @@ module Citibikenyc
     # An array of valid keys in the options hash when configuring a {Citibikenyc::API}
     VALID_OPTIONS_KEYS = [
       :adapter,
-      :client_id,
-      :client_secret,
-      :access_token,
       :endpoint,
       :format,
       :user_agent,
@@ -71,7 +68,6 @@ module Citibikenyc
     # Reset all configuration options to defaults
     def reset
       self.adapter        = DEFAULT_ADAPTER
-      self.client_id      = DEFAULT_CLIENT_ID
       self.endpoint       = DEFAULT_ENDPOINT
       self.format         = DEFAULT_FORMAT
       self.user_agent     = DEFAULT_USER_AGENT
