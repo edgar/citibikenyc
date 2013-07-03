@@ -1,8 +1,5 @@
-# Citibikenyc [![Build Status](https://travis-ci.org/edgar/citibikenyc.png?branch=master)](https://travis-ci.org/edgar/citibikenyc)
+# Citibikenyc [![Build Status](https://travis-ci.org/edgar/citibikenyc.png?branch=master)](https://travis-ci.org/edgar/citibikenyc) [![Dependency Status](https://gemnasium.com/edgar/citibikenyc.png)](https://gemnasium.com/edgar/citibikenyc)
 A gem for CitibikeNYC API - citibikenyc.com
-
-[travis]: http://travis-ci.org/edgar/citibikenyc
-
 
 ## Installation
 
