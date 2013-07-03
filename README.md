@@ -39,10 +39,10 @@ For more information about the data returned by every method please check the sp
 Because citibikenyc gem is based on [Faraday](https://github.com/lostisland/faraday), it supports the following adapters:
 
 * Net::HTTP (default)
-* [Excon][https://github.com/geemus/excon]
-* [Typhoeus][https://github.com/typhoeus/typhoeus]
-* [Patron][http://toland.github.com/patron/]
-* [EventMachine][https://github.com/igrigorik/em-http-request]
+* [Excon](https://github.com/geemus/excon)
+* [Typhoeus](https://github.com/typhoeus/typhoeus)
+* [Patron](http://toland.github.com/patron/)
+* [EventMachine](https://github.com/igrigorik/em-http-request)
 
 Beside the adapter, you can change the following properties:
 
